@@ -1,0 +1,12 @@
+input: .
+output: build
+url: # Add your website address here
+branding:
+  label: 3.5
+  logo: /static/retype-logo.svg
+  logoDark: /static/retype-logo-dark.svg
+links:
+- text: Getting Started
+  link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ 2024 }}. All rights reserved."
