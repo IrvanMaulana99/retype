@@ -1,6 +1,6 @@
 input: .
 output: build
-url: # Add your website address here
+url: https://retype-irvan.netlify.app/
 branding:
   label: 3.5
   logo: /static/retype-logo.svg
