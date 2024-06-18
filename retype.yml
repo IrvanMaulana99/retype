@@ -1,6 +1,6 @@
 input: .
 output: build
-url: https://retype-irvan.netlify.app/
+url: #
 branding:
   label: 3.5
   logo: /static/retype-logo.svg
