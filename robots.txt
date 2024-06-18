@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://irvanmaulana99.github.io/retype/sitemap.xml.gz
